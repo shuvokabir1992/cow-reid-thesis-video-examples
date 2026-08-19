@@ -1,4 +1,4 @@
-##Cow Re-ID Thesis — Supplementary Video Examples
+Cow Re-ID Thesis — Supplementary Video Examples
 
 This repository provides supplementary video examples for the MSc thesis End-to-End AI Pipeline for Cow Re-Identification in Dairy Farms.
 
